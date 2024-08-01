@@ -1,0 +1,1 @@
+Hola mi nombre es Daniel y soy un Estudiante de Ingeniería en Sistemas con habilidades en el desarrollo de software, especializado en los lenguajes de programación Java, Python y C#. Con un sólido conocimiento de los patrones de diseño MVC, DAO y DTO, y experiencia en el desarrollo de aplicaciones eficientes y escalables.
